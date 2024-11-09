@@ -34,8 +34,7 @@
 				<a href='https://pinokio.computer/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Pinokio</a>: One-Click installer of AI tools<br/><br/>
 				<a href='https://www.pictobrush.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Pic2Brush</a>: Paint _using_ Photos<br/><br/>
 				<a href='https://hueplot.ardov.me/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>HuePlot</a>: A tool to visually explore the world of color spaces and gamuts.<br/><br/>
-
-				<a href='https://aitestkitchen.withgoogle.com/tools/music-fx' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>MusicFx</a><br/>: a generative music creation tool<br/>
+				<a href='https://aitestkitchen.withgoogle.com/tools/music-fx' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>MusicFx</a>: a generative music creation tool<br/><br/>
 				<a href='https://audioldm.github.io/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>AudioLDM</a>: Text to sound effects<br/><br/>
 				<a href='https://codepen.io/teropa/full/rdoPbG/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Latent Loops</a>: a Generative Music experiment<br/><br/>
 				<a href='https://sites.research.google/tonetransfer' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Tone Transfer</a>: Go from one sound to another<br/><br/>
