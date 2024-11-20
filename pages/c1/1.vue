@@ -49,6 +49,7 @@
 				<a href='https://build.nvidia.com/nvidia/nemotron-4-mini-hindi-4b-instruct' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Nemotron Hindi</a>: A Language Model tailored for the Hindi Language<br/><br/>
 				<a href='https://huggingface.co/l3cube-pune/marathi-gpt-gemma-7b' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Gemma Marathi</a>: A Language Model tailored for the Marathi Language<br/><br/>
 				<a href='https://huggingface.co/l3cube-pune/marathi-sentiment-md' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>MahaSent-MD</a>: Marathi sentiment analysis<br/><br/>
+				<a href='https://huggingface.co/spaces/BlinkDL/RWKV-Gradio-1' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>RWKV-x060-World</a>:  Sequence model for 100+ languages<br/><br/>
 				<a href='https://notebooklm.google/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>NotebookLM</a>: For chatting with books and webpages<br/><br/>
 				<a href='https://gemini.google.com/gems/view' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Google Gemini</a>: Sync across your Google Workspace<br/><br/>
 				<a href='https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>CrewAI Multi Agent Systems</a>: Automate complex tasks which take in fuzzy inputs<br/><br/>
