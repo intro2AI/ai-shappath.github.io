@@ -32,6 +32,7 @@
 				<a href='https://madebyoll.in/posts/dino_diffusion/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>DinoDiffusion</a>: Intro to Diffusion Models<br/><br/>
 				<a href='https://huggingface.co/spaces/jbilcke-hf/FacePoke' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>FacePoke</a>: A real-time head transformation app<br/><br/>
 				<a href='https://tinybots.net/artbot' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Artbot</a>: Generate Images using Stable Diffusion<br/><br/>
+				<a href='https://huggingface.co/spaces/NJU/RAG-Diffusion' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>RAG Diffusion</a>: Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement<br/><br/>
 				<a href='https://pinokio.computer/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Pinokio</a>: One-Click installer of AI tools<br/><br/>
 				<a href='https://www.pictobrush.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Pic2Brush</a>: Paint _using_ Photos<br/><br/>
 				<a href='https://hueplot.ardov.me/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>HuePlot</a>: A tool to visually explore the world of color spaces and gamuts.<br/><br/>
